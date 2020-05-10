@@ -1,4 +1,5 @@
 # Negotiation
+
 Personality | Like | Dislike
 ----------- | ---- | -------
 Upbeat | Funny | Serious, Vague

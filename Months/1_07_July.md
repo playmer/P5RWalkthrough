@@ -2,6 +2,7 @@ July Walkthrough
 ----------------
 
 ## Confidants Updated this Month
+
 Arcana | Name
 | - | - | - |
 Chariot | Ryuji S.
