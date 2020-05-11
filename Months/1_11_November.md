@@ -1,4 +1,4 @@
-### November Walkthrough
+# November Walkthrough
 
 ## 11/1: Tuesday
 
@@ -685,7 +685,7 @@ __
 ## 11/18: Friday
 __
 
-__Morning__, Weather: Clear
+### Morning, Weather: Clear
 
 - Story
 
@@ -710,7 +710,7 @@ __Morning__, Weather: Clear
 ## 11/19: Saturday
 __
 
-__Daytime__, Weather: Clear
+### Daytime, Weather: Clear
 
 - Story
 
